@@ -9,7 +9,7 @@ dotenv.config();
 const app = express();
 
 app.use(cors({
-  origin: "https://note-app-sbaf.onrender.com"
+  origin: "https://note-hs0wc31l8-tanmay-srivastavas-projects-28e70535.vercel.app"
 }));
 
 app.use(express.json());
